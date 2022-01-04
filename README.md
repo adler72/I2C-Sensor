@@ -1,1 +1,1 @@
-# I2C-Sensor
+# I2CSensor
