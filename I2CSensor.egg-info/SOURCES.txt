@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.py
+I2CSensor/ABE_ADCPi.py
+I2CSensor/__init__.py
+I2CSensor/config.yaml
+I2CSensor.egg-info/PKG-INFO
+I2CSensor.egg-info/SOURCES.txt
+I2CSensor.egg-info/dependency_links.txt
+I2CSensor.egg-info/top_level.txt
+I2CSensor/static/cbpi.png
+I2CSensor/static/index.html
+I2CSensor/static/style.css

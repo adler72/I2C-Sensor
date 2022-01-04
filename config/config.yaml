@@ -1,0 +1,14 @@
+index_url: /cbpi_ui/static/index.html
+mqtt: false
+mqtt_host: localhost
+mqtt_password: ''
+mqtt_port: 1883
+mqtt_username: ''
+name: CraftBeerPi
+password: 123
+plugins:
+- cbpi4ui
+- I2CActor
+port: 8000
+username: cbpi
+version: 4.0.8

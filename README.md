@@ -1,1 +1,1 @@
-# I2CSensor
+# craftbeerpi4-plugin-template
