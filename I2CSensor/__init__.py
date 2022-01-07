@@ -48,7 +48,6 @@ class CustomSensor(CBPiSensor):
     def get_state(self):
         return dict(value=self.value)
 
-
-def setup(cbpi):
-    cbpi.plugin.register("I2CSensor", CustomSensor)
-    pass
+    def setup(cbpi):
+        cbpi.plugin.register("I2CSensor", CustomSensor)
+        pass
